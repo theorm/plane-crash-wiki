@@ -1,0 +1,22 @@
+{
+  "name": "wikiserver",
+  "version": "1.0.0",
+  "description": "API serving a plane crash article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plane",
+    "crash",
+    "api",
+    "server"
+  ],
+  "author": "Roman Kalyakin <roman@kalyakin.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.9.1",
+    "express": "^4.10.0",
+    "lockfile": "^1.0.0"
+  }
+}
